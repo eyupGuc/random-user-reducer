@@ -1,9 +1,9 @@
 import React from 'react'
-import { UseRandomReducer } from '../component/useReducer'
+import {  UseReducer } from '../component/useReducer'
 
 const Home = () => {
   return (
-    <UseRandomReducer/>
+    <UseReducer/>
   )
 }
 
